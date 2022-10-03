@@ -18,9 +18,3 @@ for i in range(1,N+1):
                     queue.append(j)
                     visited[j] = 1
 print(count)
-
-    
-
-    
-
-
